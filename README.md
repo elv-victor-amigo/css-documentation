@@ -50,7 +50,7 @@ You will be able to make a custom theme with relatively few variable changes sin
         --border-marketplace-card-logo
         --border-radius-marketplace-card
 
-The rest of the global variables (listed below) we highly recommend you simply interpolate their values with the ones above. This will decrease the amount of overlapping CSS values and parameters as well as avoid rendering issues. 
+**The rest of the global variables (listed below) we highly recommend you simply interpolate their values with the ones above. This will decrease the amount of overlapping CSS values and parameters as well as avoid rendering issues.**
 
   - SITE HEADER
 
