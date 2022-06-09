@@ -2,7 +2,7 @@
 
 Once a tenancy is created and the marketplace object is minted, the tenant admin must set the 'theme' of the marketplace to custom. This will allow them to customize their marketplace's CSS directly on the fabric browser by simply setting the desired values to specific root variables. In order to avoid any issues in terms of styling, we highly recommend customizing your site by solely changing the values of the following root variables instead of trying to override any styling with custom stylesheets.
 
-## Variabales
+## Variables
 
 You will be able to make a custom theme with relatively few variable changes since most component variables reference general defaults. The following are the variables that are given custom values and re-used throughout the different components. 
   
@@ -252,11 +252,11 @@ You will be able to make a custom theme with relatively few variable changes sin
 
 The following are examples of customizations compared to the default CSS of the marketplace.
 
-[Default CSS](https://github.com/eluv-io/elv-media-wallet/blob/main/src/static/stylesheets/themes/default.css#L28) ---> [Site with Default Theme](https://live.eluv.io/dollyverse)
+[Default CSS](https://github.com/eluv-io/elv-media-wallet/blob/main/src/static/stylesheets/themes/default.css#L28) ---> [Site with Default Theme](https://wallet.contentfabric.io/#/marketplace/iq__THqkAiRSaDCRPLtZ81PndCos2zn/store)
 
-[Dark Theme CSS](https://github.com/eluv-io/elv-media-wallet/blob/main/src/static/stylesheets/themes/dark.theme.css) ---> [Site with Dark Theme](https://live.eluv.io/indieflix)
+[Dark Theme CSS](https://github.com/eluv-io/elv-media-wallet/blob/main/src/static/stylesheets/themes/dark.theme.css) ---> [Site with Dark Theme](https://wallet.contentfabric.io/#/marketplace/iq__38aCx8VAeNFQG2i1ngWS1rfFV6Rx/store)
 
-[Maskverse CSS](https://github.com/eluv-io/elv-media-wallet/blob/main/src/static/stylesheets/themes/maskverse-test.theme.css) ---> [Maskverse Site](https://live.eluv.io/maskverse)
+[Maskverse CSS](https://github.com/eluv-io/elv-media-wallet/blob/main/src/static/stylesheets/themes/maskverse-test.theme.css) ---> [Maskverse Site](https://wallet.contentfabric.io/#/marketplace/iq__2JocoHMZ6YTSWWLf315ibCyMvyFj/store)
 
 [WWE CSS](https://github.com/eluv-io/elv-media-wallet/blob/main/src/static/stylesheets/themes/wwe-test.theme.css) ---> [WWE Moonsault Site](https://www.wwemoonsault.com/marketplace)
 
